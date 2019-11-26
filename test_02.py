@@ -1,2 +1,5 @@
-for i in range(20):
-    print(i)
+def sleep():
+    print('sleeping')
+
+
+sleep()
