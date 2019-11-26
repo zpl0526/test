@@ -1,5 +1,5 @@
-def run():
-    print('running')
-    
+def run(name):
+    print('%s running' % name)
 
-run()
+
+run('zpl')
